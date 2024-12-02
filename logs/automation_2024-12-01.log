@@ -1,0 +1,8 @@
+2024-12-01 22:28:10.125 [main] INFO  api.test.UserTests2 - ******** Create User ************
+2024-12-01 22:28:12.660 [main] INFO  api.test.UserTests2 - ******** User is Created ************
+2024-12-01 22:28:12.670 [main] INFO  api.test.UserTests2 - ******** Getting User Info ************
+2024-12-01 22:28:13.786 [main] INFO  api.test.UserTests2 - ******** User INfo is displayed ************
+2024-12-01 22:28:13.788 [main] INFO  api.test.UserTests2 - ******** Update User ************
+2024-12-01 22:28:16.058 [main] INFO  api.test.UserTests2 - ******** User is Updated ************
+2024-12-01 22:28:16.060 [main] INFO  api.test.UserTests2 - ******** Delete User ************
+2024-12-01 22:28:17.190 [main] INFO  api.test.UserTests2 - ******** User is deleted ************
